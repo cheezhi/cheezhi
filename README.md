@@ -1,10 +1,10 @@
 <h3 align="center">我在成长 也在丢失从前的自己。</h3>
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu" />
   <a href="https://www.tutime.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/HiTuYes/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://space.bilibili.com/498959589"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <!--<a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;-->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu"/>
 </div>
 
 <hr>
