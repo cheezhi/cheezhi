@@ -1,4 +1,4 @@
-![https://bu.dusays.com/2022/04/23/1abcad8174234.gif](https://bu.dusays.com/2022/04/23/1abcad8174234.gif)
+![](https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif)
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
   <a href="https://www.tutime.cn/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
