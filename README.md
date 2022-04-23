@@ -11,15 +11,6 @@
 </div>
 
 <hr>
-&ensp;本站已稳定运行了
-    <strong><script language="JavaScript" type="text/javascript">
-    var urodz= new Date("9/29/2020");
-    var now = new Date();
-    var ile = now.getTime() - urodz.getTime();
-    var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
-    document.write(+dni)
-    </script>
-
 
 ### Hi there 👋
 <div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ye-tutu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> </div>
