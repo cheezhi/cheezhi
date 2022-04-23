@@ -1,4 +1,6 @@
 <h3 align="center">我在成长 也在丢失从前的自己。</h3>
+<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu" /></div>
+
 <hr>
 
 
