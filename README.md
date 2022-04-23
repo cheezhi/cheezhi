@@ -1,5 +1,4 @@
 <div align="center">
-  <iframe src="https://liuyan.tutime.cn/" width="100%" height="800" frameborder="0"></iframe>
   <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
@@ -12,7 +11,14 @@
 </div>
 
 <hr>
-
+&ensp;本站已稳定运行了
+    <strong><script language="JavaScript" type="text/javascript">
+    var urodz= new Date("9/29/2020");
+    var now = new Date();
+    var ile = now.getTime() - urodz.getTime();
+    var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
+    document.write(+dni)
+    </script>
 
 
 ### Hi there 👋
