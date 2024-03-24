@@ -3,10 +3,8 @@
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
-  <a href="https://www.tutime.cn/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
-  <a href="https://twitter.com/HiTuYes/"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="https://www.zzzzhi.com/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/498959589"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="mailto:me@hifurry.cn"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
   <!--<img src="https://visitor-badge.glitch.me/badge?page_id=ye-tutu">-->
 </div>
 
