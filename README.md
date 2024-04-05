@@ -14,8 +14,9 @@
 <hr>
 
 ### Hi 👏 there
-I am Zhiro🌱, a 16-year-old boy. Currently, I am studying📖 hard in a high school in a small county in northern Fujian, China🇨🇳. 
-My favorite subjects are chemistry🧪 and biology. 
+I am Zhiro🌱, a 16-year-old boy. <br>
+Currently, I am studying📖 hard in a high school in a small county in northern Fujian, China🇨🇳. <br>
+My favorite subjects are chemistry🧪 and biology. <br>
 I have a passion for computers💻 and have even started my own blog, uploading some of my completed projects (shitcode).
 
 <!--<div align="left"></div>
