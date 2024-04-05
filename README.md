@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">
+<!--   <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">  -->
+  <img src="zhiro.png">
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
@@ -11,7 +12,7 @@
 <hr>
 
 ### Hi there 👋
-<div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ye-tutu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> </div>
+<div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zhiro&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> </div>
 <!--
 **ye-tutu/ye-tutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
