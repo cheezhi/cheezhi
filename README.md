@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">  -->
-  <img style="width: 550px;" src="zhiro.png">
+  <img style="width: 550px;" src="zzhiro.png">
 </div>
 <h3 align="center">We won't give up, no we won't stop.</h3>
 <h3 align="center">绝不放弃，绝不止步。</h3>
