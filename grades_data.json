@@ -1,0 +1,92 @@
+[
+  {
+    "grade": 1,
+    "exam_name": "高一期中考试",
+    "exam_time": "2023-11-01",
+    "total_score": 650,
+    "total_rank": 10,
+    "subjects": {
+      "chinese": {"score": 120, "rank": 15},
+      "math": {"score": 140, "rank": 5},
+      "english": {"score": 130, "rank": 20},
+      "subject1": {"score": 90, "rank": 25},
+      "subject2": {"score": 85, "rank": 30},
+      "subject3": {"score": 88, "rank": 28}
+    }
+  },
+  {
+    "grade": 1,
+    "exam_name": "高一期末考试",
+    "exam_time": "2024-01-15",
+    "total_score": 680,
+    "total_rank": 5,
+    "subjects": {
+      "chinese": {"score": 125, "rank": 10},
+      "math": {"score": 145, "rank": 3},
+      "english": {"score": 135, "rank": 15},
+      "subject1": {"score": 95, "rank": 20},
+      "subject2": {"score": 90, "rank": 25},
+      "subject3": {"score": 92, "rank": 22}
+    }
+  },
+  {
+    "grade": 2,
+    "exam_name": "高二期中考试",
+    "exam_time": "2024-04-01",
+    "total_score": 670,
+    "total_rank": 8,
+    "subjects": {
+      "chinese": {"score": 125, "rank": 12},
+      "math": {"score": 138, "rank": 6},
+      "english": {"score": 132, "rank": 18},
+      "subject1": {"score": 92, "rank": 22},
+      "subject2": {"score": 88, "rank": 28},
+      "subject3": {"score": 90, "rank": 25}
+    }
+  },
+  {
+    "grade": 2,
+    "exam_name": "高二期末考试",
+    "exam_time": "2024-07-15",
+    "total_score": 690,
+    "total_rank": 4,
+    "subjects": {
+      "chinese": {"score": 130, "rank": 8},
+      "math": {"score": 142, "rank": 2},
+      "english": {"score": 138, "rank": 12},
+      "subject1": {"score": 96, "rank": 18},
+      "subject2": {"score": 92, "rank": 22},
+      "subject3": {"score": 94, "rank": 20}
+    }
+  },
+  {
+    "grade": 3,
+    "exam_name": "高三一模",
+    "exam_time": "2024-11-01",
+    "total_score": 700,
+    "total_rank": 2,
+    "subjects": {
+      "chinese": {"score": 135, "rank": 5},
+      "math": {"score": 148, "rank": 1},
+      "english": {"score": 140, "rank": 8},
+      "subject1": {"score": 98, "rank": 15},
+      "subject2": {"score": 95, "rank": 18},
+      "subject3": {"score": 97, "rank": 12}
+    }
+  },
+  {
+    "grade": 3,
+    "exam_name": "高三二模",
+    "exam_time": "2025-01-01",
+    "total_score": 710,
+    "total_rank": 1,
+    "subjects": {
+      "chinese": {"score": 138, "rank": 3},
+      "math": {"score": 150, "rank": 1},
+      "english": {"score": 142, "rank": 5},
+      "subject1": {"score": 100, "rank": 10},
+      "subject2": {"score": 98, "rank": 12},
+      "subject3": {"score": 99, "rank": 8}
+    }
+  }
+]
